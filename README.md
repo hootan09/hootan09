@@ -3,8 +3,11 @@
 ### About Me
 
 Node.js Developer
+
 Go Developer
+
 Python Lover
+
 Unity3D Game Programmer 
 
 
@@ -14,6 +17,8 @@ Unity3D Game Programmer
 ![Go](https://img.shields.io/badge/Go-%23ED8B00.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%230095D5.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%232C2D72.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
 
 ### My Stats 
 
