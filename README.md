@@ -2,13 +2,17 @@
 
 ### About Me
 
-Node.js Developer
+B.Sc.
 
-Go Developer
+Computer Science
 
-Python Lover
+###### Node.js Developer
 
-Unity3D Game Programmer 
+###### Go Developer
+
+###### Python Lover
+
+###### Unity3D Game Programmer 
 
 
 ## Skills
