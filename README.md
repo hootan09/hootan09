@@ -16,9 +16,9 @@ Unity3D Game Programmer
 ### Programming Languages & Platforms
 
 ![nodejs](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=green)
+![Go](https://img.shields.io/badge/go-%230095D5.svg?style=for-the-badge&logo=go&logoColor=white)
 ![js](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%230095D5.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-%232C2D72.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/linux-%23ED8B00.svg?style=for-the-badge&logo=linux&logoColor=white)
