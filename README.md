@@ -15,15 +15,15 @@ Unity3D Game Programmer
 
 ### Programming Languages & Platforms
 
-![Nodejs](https://img.shields.io/badge/nodejs-%23000000.svg?style=for-the-badge&logo=nodejs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/js-%23ED8B00.svg?style=for-the-badge&logo=js&logoColor=white)
+![nodejs](https://img.shields.io/badge/node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=green)
+![js](https://img.shields.io/badge/javascript-%23ED8B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%230095D5.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-%232C2D72.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-![Linux](https://img.shields.io/badge/linux-%23ED8B00.svg?style=for-the-badge&logo=linux&logoColor=gray)
-![Docker](https://img.shields.io/badge/docker-%23ED8B00.svg?style=for-the-badge&logo=Docker&logoColor=gray)
-![Git](https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=gray)
+![Linux](https://img.shields.io/badge/linux-%23ED8B00.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23ED8B00.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
