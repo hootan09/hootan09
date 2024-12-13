@@ -8,11 +8,14 @@ Computer Science
 
 ###### Node.js Developer
 
-###### Go Developer
+###### React-Native (Expo) Programmer 
+
+###### Go Lover
 
 ###### Python Lover
 
 ###### Unity3D Game Programmer 
+
 
 
 ## Skills
