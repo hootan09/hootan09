@@ -31,14 +31,3 @@ Computer Science
 ![Linux](https://img.shields.io/badge/linux-%23ED8B00.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%23ED8B00.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-### My Stats 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hootan09&layout=compact">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="width: 50%;" src="https://github-readme-stats.vercel.app/api?username=hootan09&count_private=true">
-</a>
